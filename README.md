@@ -1,5 +1,6 @@
 #Cleanse
 Coming together as a team, we centered on the importance of simplicity and minimalism in a culture where mobile devices have become integrated into our lives. We pinpointed something close to us all —photos, which are often taken in the moment and then forgotten…clogging up your device’s storage. Disorganized photo libraries—meet cleanse.
+<br>
 Check out a preview of the app here: https://www.youtube.com/watch?v=uRoW9H-0pDA
 
 #Purpose
